@@ -1,0 +1,47 @@
+.text-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-display{
+    background-color: #dbdbdb;
+    margin: 0 12px 12px 12px;
+    height: 560px;
+    min-width: 86%;
+    width: 86%;
+    border-radius: 16px;
+    font-size: 1.5rem;
+    font-weight: 600;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-spacing: 4px;
+    padding: 12px;
+   
+}
+
+.main-btn{
+    padding: 6px;
+    height: 36px;
+    width: 90px;
+    border-radius: 12px;
+    background-color: #45b182;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    margin: 0 6px;
+}
+
+.speaker-icon{
+    margin: 0 6px;
+}
+
+.btn-group{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

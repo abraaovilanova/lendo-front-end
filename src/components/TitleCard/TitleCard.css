@@ -1,0 +1,51 @@
+.title-card{
+    border-radius: 16px;
+    margin: 16px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #65a4da;
+    color: white;
+    font-weight: 500;
+    font-size: 1rem;
+    cursor: pointer;
+
+
+}
+
+.title-card-img{
+    flex: 2;
+    width: 100px;
+    height: 100px;
+    /* background-color: #93cdfc; */
+    background-color: #5a92c3;
+    overflow: hidden;
+    border-radius: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-card-img img{
+    width: 70px;
+    height: 70px;
+}
+
+.title-card-content{
+    flex: 4;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0 12px;
+}
+
+.title-card-content{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+}
+
