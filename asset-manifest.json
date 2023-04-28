@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lendo-front-end/static/css/main.e99e2630.css",
-    "main.js": "/lendo-front-end/static/js/main.68f84194.js",
+    "main.js": "/lendo-front-end/static/js/main.b6c4807d.js",
     "static/js/787.ca684e2e.chunk.js": "/lendo-front-end/static/js/787.ca684e2e.chunk.js",
     "static/media/season.png": "/lendo-front-end/static/media/season.87570b914c027db37813.png",
     "static/media/professions.png": "/lendo-front-end/static/media/professions.5aa05b2c061968ebeda8.png",
@@ -11,11 +11,11 @@
     "static/media/logo.svg": "/lendo-front-end/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/lendo-front-end/index.html",
     "main.e99e2630.css.map": "/lendo-front-end/static/css/main.e99e2630.css.map",
-    "main.68f84194.js.map": "/lendo-front-end/static/js/main.68f84194.js.map",
+    "main.b6c4807d.js.map": "/lendo-front-end/static/js/main.b6c4807d.js.map",
     "787.ca684e2e.chunk.js.map": "/lendo-front-end/static/js/787.ca684e2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e99e2630.css",
-    "static/js/main.68f84194.js"
+    "static/js/main.b6c4807d.js"
   ]
 }
