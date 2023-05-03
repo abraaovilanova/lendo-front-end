@@ -29,8 +29,8 @@
 }
 
 .title-card-img img{
-    width: 70px;
-    height: 70px;
+    height: 80px;
+    aspect-ratio: 1 / 1;
 }
 
 .title-card-content{

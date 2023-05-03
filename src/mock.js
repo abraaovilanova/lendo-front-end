@@ -71,7 +71,23 @@ L’été est la saison chaude. Surtout il fait du soleil au mois d’août. Mai
 
 En hiver il fait froid. Il neige souvent. En automne généralement il pleut de jour en jour. Toutefois, l’hiver et l’automne ont aussi du charme. Personnellement, j’adore l’hiver et l’été. En hiver, vous pouvez vous amuser, jouer dans la neige, faire du ski. En été, vous pouvez brunir au soleil, jouer sur la plage et nager à la mer.
 
-    `
+    `,
+  },
+  {
+    title: "ma famille 2",
+    imgUrl: "images/family.png",
+    id: "6",
+    text: `
+    Bonjour, je m'appelle Marie et je vais vous parler de ma famille.
 
-  }
+Nous sommes une famille de quatre personnes : mon père, ma mère, mon frère et moi. Mon père s'appelle Marc et il travaille dans une grande entreprise. Ma mère s'appelle Nathalie et elle est professeure d'école.
+
+Mon frère s'appelle Lucas et il est plus jeune que moi. Nous avons tous les deux les yeux bleus, mais Lucas a les cheveux blonds alors que les miens sont bruns.
+
+Nous aimons passer du temps ensemble. Le weekend, nous allons souvent nous promener dans la nature ou visiter des musées. Nous aimons aussi faire du sport, surtout du vélo et du tennis.
+
+Le soir, nous aimons manger ensemble en discutant de notre journée. Nous aimons partager nos passions et nos centres d'intérêt.
+
+Voilà, c'est ma famille ! Nous sommes très proches et nous nous aimons beaucoup.`,
+  },
 ];
