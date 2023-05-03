@@ -1,21 +1,15 @@
 {
   "files": {
-    "main.css": "/lendo-front-end/static/css/main.776ba8d6.css",
-    "main.js": "/lendo-front-end/static/js/main.279b0c2f.js",
+    "main.css": "/lendo-front-end/static/css/main.1fa91211.css",
+    "main.js": "/lendo-front-end/static/js/main.1c510dca.js",
     "static/js/787.ca684e2e.chunk.js": "/lendo-front-end/static/js/787.ca684e2e.chunk.js",
-    "static/media/season.png": "/lendo-front-end/static/media/season.87570b914c027db37813.png",
-    "static/media/professions.png": "/lendo-front-end/static/media/professions.5aa05b2c061968ebeda8.png",
-    "static/media/family.png": "/lendo-front-end/static/media/family.80f2025c799b93158c99.png",
-    "static/media/hobbies.png": "/lendo-front-end/static/media/hobbies.0df8123cde0f036bf675.png",
-    "static/media/routine.png": "/lendo-front-end/static/media/routine.d83bbfc415580e1d682e.png",
-    "static/media/logo.svg": "/lendo-front-end/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/lendo-front-end/index.html",
-    "main.776ba8d6.css.map": "/lendo-front-end/static/css/main.776ba8d6.css.map",
-    "main.279b0c2f.js.map": "/lendo-front-end/static/js/main.279b0c2f.js.map",
+    "main.1fa91211.css.map": "/lendo-front-end/static/css/main.1fa91211.css.map",
+    "main.1c510dca.js.map": "/lendo-front-end/static/js/main.1c510dca.js.map",
     "787.ca684e2e.chunk.js.map": "/lendo-front-end/static/js/787.ca684e2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.776ba8d6.css",
-    "static/js/main.279b0c2f.js"
+    "static/css/main.1fa91211.css",
+    "static/js/main.1c510dca.js"
   ]
 }
