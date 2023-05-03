@@ -11,7 +11,7 @@ import { data } from "../../mock";
 function Text(props) {
   const navigate = useNavigate();
   const { textId } = useParams();
-  const [text, setText] = useState(data[textId - 1].text.split("."));
+  const [text, setText] = useState(data[textId - 1].text.split(/[.!]/));
   const [count, setCount] = useState(0);
   const [isRecording, setIsRecording] = useState(false);
   const [similarityScore, setSimilarityScore] = useState(0);
