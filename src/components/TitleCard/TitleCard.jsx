@@ -12,9 +12,9 @@ function TitleCard(props) {
 
 
   return (
-    <div className="title-card" onClick={() => handleSelectText()}>
-      <div className="title-card-img">
-        <img src={require(`../../${props.imgUrl}`)}  alt="my img"/>
+    <div className="title-card" onClick={() => handleSelectText()} style={{backgroundColor: props.status > 2 & props.status < 4 ? '#fe7747' : props.status >= 4 ? '#4dc591': '#64a4da'  }}>
+      <div className="title-card-img" style={{backgroundColor: props.status > 2 & props.status < 4 ? '#e76a40' : props.status >= 4 ? '#46b182': '#5a92c3'  }}>
+        {/* <img src={require(`../../${props.imgUrl}`)}  alt="my img"/> */}
       </div>
       <div className="title-card-content">
         <span>{props.title}</span>

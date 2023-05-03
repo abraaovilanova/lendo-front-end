@@ -38,7 +38,7 @@ function Home() {
 
   return (
     <>
-      <h1>Meus Textos</h1>
+      <h1 style={{color: 'gray'}}>Meus Textos</h1>
       {textStatus.textStatus?.map((item) => (
         <TitleCard
           key={item.id}

@@ -17,15 +17,18 @@
 
 .title-card-img{
     flex: 2;
-    width: 100px;
+    max-width: 16px;
     height: 100px;
     /* background-color: #93cdfc; */
     background-color: #5a92c3;
     overflow: hidden;
     border-radius: inherit;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 .title-card-img img{

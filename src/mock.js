@@ -4,11 +4,11 @@ export const data = [
     imgUrl: "images/family.png",
     id: "1",
     text: `
-    Permettez-moi de me présenter. Je m’appelle Tania (Mon nom est Tania) et j’ai 13 ans. Maintenant, j’habite en France en ville qui s’appelle Paris. C’est une belle ville touristique avec l’architecture antique et les curiosités. Nous sommes cinq dans la famille. On peut dire que ma famille n’est ni petite ni grande. J’ai une maman, un papa, un frère et une sœur. 
+    Permettez-moi de me présenter. Je m’appelle Tania, Mon nom est Tania, et j’ai 13 ans. Maintenant, j’habite en France en ville qui s’appelle Paris. C’est une belle ville touristique avec l’architecture antique et les curiosités. Nous sommes cinq dans la famille. On peut dire que ma famille n’est ni petite ni grande. J’ai une maman, un papa, un frère et une sœur. 
 
-Mon frère aîné est plus âgé que moi de 4 ans. Il est de grande taille, il a les cheveux noirs et les yeux bruns. De caractère, il est obstiné, mais très bon. Maintenant, il va entrer à l’université. Il est déjà 17 (dix-sept) ans! Il est adulte et indépendant. Les parents lui permettent de faire presque tout. A l’avenir, il veut devenir avocat. 
+Mon frère aîné est plus âgé que moi de 4 ans. Il est de grande taille, il a les cheveux noirs et les yeux bruns. De caractère, il est obstiné, mais très bon. Maintenant, il va entrer à l’université. Il est déjà 17 ans! Il est adulte et indépendant. Les parents lui permettent de faire presque tout. A l’avenir, il veut devenir avocat. 
 
-Ma petite sœur est plus jeune que moi de 5 ans. Elle a 8 (huit) ans. Elle va à l’école – elle est déjà écolière. Elle a les cheveux blonds et les yeux bleus. En ce moment elle est de petite taille, parce qu’elle est encore très petite. Outre l’école, elle va à la salle de danse avec sa mère. Je pense qu’elle est une personne créative. A l’avenir, peut-être, elle sera actrice ou chanteuse. 
+Ma petite sœur est plus jeune que moi de 5 ans. Elle a 8 ans. Elle va à l’école, elle est déjà écolière. Elle a les cheveux blonds et les yeux bleus. En ce moment elle est de petite taille, parce qu’elle est encore très petite. Outre l’école, elle va à la salle de danse avec sa mère. Je pense qu’elle est une personne créative. A l’avenir, peut-être, elle sera actrice ou chanteuse. 
 
 Ma mère est médecin, mon père est ingénieur. Chaque jour ils vont au travail à huit heures du matin, et reviennent à quatre heures et demie. Dans la soirée, nous faisons une promenade ou accueillons les invités. Je suis heureuse que j’ai une telle bonne famille!
 
@@ -25,7 +25,7 @@ Ordinairement pour le petit déjeuner je mange des fruits, des céréales, du ju
 
 C’est temps d’aller à l’école! Les leçons commencent à neuf heures et finissent à trois heures. Je vais à l’école à pied. Cela prend environ une demi-heure. Je rentre à quatre heures moins le quart. Ensuite, je me repose un peu, mange quelques sandwichs avec du thé ou du café et fais mes devoirs. A six heures, je suis enfin libre! 
 
-Dans la soirée, nous nous rencontrons avec des amis et nous décidons comment passer notre soir joyeusement. Parfois, nous nous promenons, écoutons de la musique et bavardons. Et parfois nous allons au cinéma, à la discothèque ou au café. Environ à huit heures, je suis à la maison. Je dîne, regarde la télé, parle avec mes amis par téléphone. A dix heures je me couche (je vais au lit). Demain tout commence à nouveau.
+Dans la soirée, nous nous rencontrons avec des amis et nous décidons comment passer notre soir joyeusement. Parfois, nous nous promenons, écoutons de la musique et bavardons. Et parfois nous allons au cinéma, à la discothèque ou au café. Environ à huit heures, je suis à la maison. Je dîne, regarde la télé, parle avec mes amis par téléphone. A dix heures je me couche, je vais au lit. Demain tout commence à nouveau.
 
     `,
   },
@@ -72,22 +72,5 @@ L’été est la saison chaude. Surtout il fait du soleil au mois d’août. Mai
 En hiver il fait froid. Il neige souvent. En automne généralement il pleut de jour en jour. Toutefois, l’hiver et l’automne ont aussi du charme. Personnellement, j’adore l’hiver et l’été. En hiver, vous pouvez vous amuser, jouer dans la neige, faire du ski. En été, vous pouvez brunir au soleil, jouer sur la plage et nager à la mer.
 
     `,
-  },
-  {
-    title: "ma famille 2",
-    imgUrl: "images/family.png",
-    id: "6",
-    text: `
-    Bonjour, je m'appelle Marie et je vais vous parler de ma famille.
-
-Nous sommes une famille de quatre personnes : mon père, ma mère, mon frère et moi. Mon père s'appelle Marc et il travaille dans une grande entreprise. Ma mère s'appelle Nathalie et elle est professeure d'école.
-
-Mon frère s'appelle Lucas et il est plus jeune que moi. Nous avons tous les deux les yeux bleus, mais Lucas a les cheveux blonds alors que les miens sont bruns.
-
-Nous aimons passer du temps ensemble. Le weekend, nous allons souvent nous promener dans la nature ou visiter des musées. Nous aimons aussi faire du sport, surtout du vélo et du tennis.
-
-Le soir, nous aimons manger ensemble en discutant de notre journée. Nous aimons partager nos passions et nos centres d'intérêt.
-
-Voilà, c'est ma famille ! Nous sommes très proches et nous nous aimons beaucoup.`,
   },
 ];
