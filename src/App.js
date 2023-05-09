@@ -8,7 +8,7 @@ import "./App.css";
 
 import Home from "./pages/Home";
 import Text from "./pages/Text";
-
+import Admin from './pages/Admin'
 
 
 function App() {
@@ -17,6 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/text/:textId" element={<Text />} />
+        <Route path="/admin" element={<Admin />} />
       </Routes>
     </div>
   );
